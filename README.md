@@ -13,6 +13,10 @@ This project builds a machine learning system that predicts hourly electricity d
 - Accurate predictions help reduce waste and costs
 - Understanding weather impact on energy helps with grid stability
 
+## Project Dashboard:
+
+URL: https://toronto-energy-forecast-0.streamlit.app/
+
 ---
 
 ## Dataset
@@ -145,13 +149,9 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### Run the Dashboard
+### Use the Dashboard
 
-```bash
-streamlit run dashboard/app.py
-```
-
-Open your browser to `http://localhost:8501`
+Open your browser to `https://toronto-energy-forecast-0.streamlit.app/`
 
 ---
 
