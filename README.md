@@ -204,7 +204,7 @@ MIT License
 
 ## Author
 
-Insert name here
+Omar Al Hunaidi
 
 ---
 
